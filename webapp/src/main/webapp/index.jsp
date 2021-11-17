@@ -7,3 +7,4 @@
 <h2> Deployed container on KUBERNETES server on Wednesday 17.11.2021 at 8.03 am </h2>
 <h2> Deployed container on KUBERNETES server on Wednesday 17.11.2021 at 8.21 am </h2>
 <h2> FINALLY Deployed container on KUBERNETES server on Wednesday 17.11.2021 at 8.25 am </h2>
+<h2> FINALLY Deployed container on KUBERNETES server on Wednesday 17.11.2021 at 8.39 am </h2>
